@@ -9,7 +9,7 @@ I am a Software Engineer specializing in Site Reliability and Platform engineeri
 
 - 🥇 Proficient in Golang, TypeScript, Python
 
-- :gear: Passionate about self-service infrastructure, platform engineering and blazing-fast APIs
+- :gear: Passionate about self-service infrastructure, platform engineering and API-driven design
 
 - :seedling: Exploring Rust, WebAssembly and LLMs
 
