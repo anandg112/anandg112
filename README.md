@@ -7,6 +7,10 @@ I am a Software Engineer specializing in Site Reliability and Platform engineeri
 
 - :telescope: Currently, I’m working as a Senior Software Engineer at 1Password provisioning infrastructure with CDK (Golang) and Terraform, developing an internal developer platform on Backstage (TypeScript) and migrating workloads to a service-oriented architecture on EKS.
 
+- 🥇 Proficient in Golang, TypeScript, Python
+
+- :gear: Passionate about self-service infrastructure, platform engineering and blazing-fast APIs
+
 - :seedling: Exploring Rust, WebAssembly and LLMs
 
 - :zap: In my free time, I like to go on hikes, drink good coffee and read tech articles.
