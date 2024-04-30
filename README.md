@@ -5,7 +5,7 @@
 I am a Software Engineer specializing in Site Reliability and Platform engineering <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Toronto, Canada.
 
 
-- :telescope: Currently, I’m working as a Senior Software Engineer at 1Password provisioning infrastructure with CDKTF and Terraform, developing an internal developer platform on Backstage and migrating workloads to a service-oriented architecture on EKS.
+- :telescope: Currently, I’m working as a Senior Software Engineer at 1Password provisioning infrastructure with CDK (Golang) and Terraform, developing an internal developer platform on Backstage (TypeScript) and migrating workloads to a service-oriented architecture on EKS.
 
 - :seedling: Exploring Rust, WebAssembly and LLMs
 
